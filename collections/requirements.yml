@@ -1,19 +1,19 @@
 collections:
-  - name: redhat.insights
+#  - name: redhat.insights
 
-  - name: chocolatey.chocolatey
+#  - name: chocolatey.chocolatey
 
-  - name: community.windows
+#  - name: community.windows
 
-  - name: community.general
+#  - name: community.general
 
-  - name: ansible.windows
+#  - name: ansible.windows
 
-  - name: ansible.posix
+#  - name: ansible.posix
 
-  - name: splunk.es
+#  - name: splunk.es
 
-  - name: redhat.rhv
+#  - name: redhat.rhv
 
 
   
