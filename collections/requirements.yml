@@ -13,8 +13,6 @@ collections:
 
   - name: splunk.es
 
-  - name: shadowman.reports
-
   - name: redhat.rhv
 
 
