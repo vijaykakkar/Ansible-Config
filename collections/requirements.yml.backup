@@ -1,0 +1,21 @@
+collections:
+  - name: redhat.insights
+
+  - name: chocolatey.chocolatey
+
+  - name: community.windows
+
+  - name: community.general
+
+  - name: ansible.windows
+
+  - name: ansible.posix
+
+  - name: splunk.es
+
+  - name: redhat.rhv
+
+  - name: amazon.aws
+
+
+  
